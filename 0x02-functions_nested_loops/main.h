@@ -1,6 +1,6 @@
 #define HOLBERTON_H_INCLUDED
 
-int _putchar(char);
+int _putchar(char c);
 
 
 
